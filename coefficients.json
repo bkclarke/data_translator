@@ -1,0 +1,6 @@
+{
+    "fluorometer": {
+        "scale_factor": 6.0,
+        "dark_counts": 0.061
+    }
+}
